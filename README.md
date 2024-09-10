@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @davejscott (Dave)
 - 👀 I’m interested in: sports and language learning
 - 🌱 I’m currently learning: Spanish and Chinese
-- 💞️ I’m looking to collaborate on: idea sharing and healthy WFH habits
-- 📫 How to reach me: davejcscott@gmail.com
 
 <!---
 davejscott/davejscott is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
